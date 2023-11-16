@@ -6,8 +6,8 @@ While Apex's addError() method was historically the weapon of choice for complex
 
 ## We'll compare the following solutions in solving this requirement:
 
-1.Apex
-Flow
+1. Apex
+2. Flow
 
 ## Step-by-Step Guide:
 
