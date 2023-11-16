@@ -11,4 +11,4 @@ While Apex's addError() method was historically the weapon of choice for complex
 
 ## Step-by-Step Guide:
 
-Check out [our blog](www.bigsolve.com/blog/migrating-validation-rules-from-apex-to-flow) for an instructional guide on building this component.
+Check out [our blog](https://www.bigsolve.com/blog/migrating-validation-rules-from-apex-to-flow) for an instructional guide on building this component.
