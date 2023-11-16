@@ -1,18 +1,14 @@
-# Salesforce DX Project: Next Steps
+## Migrating Validation Rules from Apex to Flow
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+Migrate Validation Rules from Apex to Flow's Custom Error Element.
 
-## How Do You Plan to Deploy Your Changes?
+While Apex's addError() method was historically the weapon of choice for complex validations, there's a new kid on the block: Flow's Custom Error element.
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+## We'll compare the following solutions in solving this requirement:
 
-## Configure Your Salesforce DX Project
+1.Apex
+Flow
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+## Step-by-Step Guide:
 
-## Read All About It
-
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+Check out [our blog](www.bigsolve.com/blog/migrating-validation-rules-from-apex-to-flow) for an instructional guide on building this component.
